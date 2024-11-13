@@ -53,7 +53,7 @@ h1 {
 }
 
 .todo-input::placeholder {
-  color: blueviolet;
+  color: lightviolet;
 }
 
 .add-button {
